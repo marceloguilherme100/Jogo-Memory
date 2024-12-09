@@ -32,3 +32,7 @@ Clone o repositório para o seu computador e abra o arquivo `index.html` no seu 
 
 ```bash
 git clone https://github.com/marceloguilherme100/Jogo-Memory
+
+
+## 🕹️ Jogar Online  🕹️ ##
+https://jogo-da-memoria-ruby-theta.vercel.app/
