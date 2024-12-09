@@ -1,29 +1,33 @@
-# Jogo da Memória com Emojis
+# 🎮 Jogo da Memória com Emojis
 
-Este é um jogo da memória simples onde o objetivo é encontrar os pares de emojis. O jogo utiliza HTML, CSS e JavaScript para criar uma experiência interativa no navegador.
+Bem-vindo ao **Jogo da Memória**! Um jogo interativo simples onde o objetivo é combinar pares de emojis. Desafie sua memória e divirta-se!
 
-## Funcionalidade
+## 📸 Imagem do Jogo
 
-- O jogo apresenta um conjunto de cartas com emojis, onde o usuário deve clicar para virá-las.
-- O objetivo é encontrar os pares de emojis correspondentes.
-- As cartas voltam para sua posição original caso o usuário erre a combinação.
-- O jogo termina quando todos os pares forem encontrados.
+![Imagem do Jogo](images/game-screenshot.png)
 
-## Tecnologias Usadas
+## 🌟 Funcionalidade
+
+- **Objetivo**: Encontrar os pares de emojis correspondentes.
+- **Interatividade**: Clique nas cartas para virá-las e ver se o emoji corresponde a outro.
+- **Feedback Visual**: As cartas voltam ao lugar se a combinação estiver errada e permanecem viradas se estiverem corretas.
+- **Fim do Jogo**: O jogo é finalizado quando todos os pares de emojis são encontrados.
+
+## 💻 Tecnologias Usadas
 
 - **HTML**: Para a estrutura do jogo.
-- **CSS**: Para estilizar e criar os efeitos visuais, incluindo as animações de rotação das cartas.
-- **JavaScript**: Para a lógica do jogo, incluindo a manipulação dos eventos de clique e a verificação dos pares de cartas.
+- **CSS**: Para a estilização, incluindo animações e efeitos visuais.
+- **JavaScript**: Para a lógica do jogo e a manipulação dos eventos de clique.
 
-## Como Jogar
+## 🕹️ Como Jogar
 
-1. Ao carregar a página, as cartas com emojis são dispostas na tela de forma embaralhada.
-2. Clique nas cartas para virá-las e procure os pares de emojis correspondentes.
-3. O jogo termina quando todos os pares forem encontrados.
+1. **Inicie o jogo**: As cartas com emojis são embaralhadas e dispostas na tela.
+2. **Clique nas cartas**: Tente combinar as cartas com os mesmos emojis.
+3. **Final do jogo**: O jogo termina quando todos os pares forem encontrados.
 
-## Como Rodar o Jogo
+## 🚀 Como Rodar
 
-1. Faça o clone deste repositório para o seu computador:
+Clone o repositório para o seu computador e abra o arquivo `index.html` no seu navegador:
 
-   ```bash
-   git clone https://github.com/marceloguilherme100/Jogo-Memory
+```bash
+git clone https://github.com/marceloguilherme100/Jogo-Memory
