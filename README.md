@@ -4,7 +4,7 @@ Bem-vindo ao **Jogo da Memória**! Um jogo interativo simples onde o objetivo é
 
 ## 📸 Imagem do Jogo
 
-![Imagem do Jogo](https://github.com/marceloguilherme100/Jogo-Memory/blob/main/src/styles/background.jpg?raw=true)
+![Imagem do Jogo](https://github.com/marceloguilherme100/Jogo-Memory/blob/main/src/styles/jogo.png?raw=true)
 
 
 ## 🌟 Funcionalidade
